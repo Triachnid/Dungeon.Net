@@ -1,0 +1,1 @@
+This is just a simple implementation of the single player card game Scoundrel created mainly as a way to explore some of Spectre.Console and what can be done with it. [Rules Here](http://stfj.net/art/2011/Scoundrel.pdf)
