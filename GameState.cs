@@ -192,12 +192,22 @@ public class GameState
             $"""
             Game Over. 
             Score: {points}
-            Press any key to Exit.
+            Press Enter to play again.
+            Press any other key to exit.
             """)));
         LiveDisplayContext.Refresh();
 
-        var finalInputManager = new InputManager();
+        var playAgain = false;
+        var finalInputManager = new InputManager()
+            .RegisterKey(ConsoleKey.Enter, () =>
+            {
+                playAgain = true;
+            });
         finalInputManager.ListenForNextInput();
+        if (!playAgain)
+        {
+            GameLauncher.Exit = true;
+        }
         _inputManager.Dispose();
     }
 }
