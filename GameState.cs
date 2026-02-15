@@ -10,6 +10,7 @@ public class GameState
 
     public Queue<RenderableCard> Deck { get; init; }
 
+    public bool PreviouslyDiscardedRoom { get; set; }
     public RenderableCard[] CurrentRoom { get; }
 
     public int SelectedIndex { get; set; } = 0;
@@ -50,6 +51,7 @@ public class GameState
 
     public void NewRoom(bool discard = false)
     {
+        PreviouslyDiscardedRoom = discard;
         if(Deck.Count < CurrentRoom.Length)
         {
             EndGame(false);
