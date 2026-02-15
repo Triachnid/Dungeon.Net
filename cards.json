@@ -1,0 +1,224 @@
+[
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-ace-clubs.png",
+        "Value": 14
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-2-clubs.png",
+        "Value": 2
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-3-clubs.png",
+        "Value": 3
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-4-clubs.png",
+        "Value": 4
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-5-clubs.png",
+        "Value": 5
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-6-clubs.png",
+        "Value": 6
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-7-clubs.png",
+        "Value": 7
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-8-clubs.png",
+        "Value": 8
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-9-clubs.png",
+        "Value": 9
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-10-clubs.png",
+        "Value": 10
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-jack-clubs.png",
+        "Value": 11
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-queen-clubs.png",
+        "Value": 12
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-king-clubs.png",
+        "Value": 13
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-ace-spades.png",
+        "Value": 14
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-2-spades.png",
+        "Value": 2
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-3-spades.png",
+        "Value": 3
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-4-spades.png",
+        "Value": 4
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-5-spades.png",
+        "Value": 5
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-6-spades.png",
+        "Value": 6
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-7-spades.png",
+        "Value": 7
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-8-spades.png",
+        "Value": 8
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-9-spades.png",
+        "Value": 9
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-10-spades.png",
+        "Value": 10
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-jack-spades.png",
+        "Value": 11
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-queen-spades.png",
+        "Value": 12
+    },
+    {
+        "CardType": "Monster",
+        "ImagePath": "./assets/cards/card-king-spades.png",
+        "Value": 13
+    },
+    
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-2-diamonds.png",
+        "Value": 2
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-3-diamonds.png",
+        "Value": 3
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-4-diamonds.png",
+        "Value": 4
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-5-diamonds.png",
+        "Value": 5
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-6-diamonds.png",
+        "Value": 6
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-7-diamonds.png",
+        "Value": 7
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-8-diamonds.png",
+        "Value": 8
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-9-diamonds.png",
+        "Value": 9
+    },
+    {
+        "CardType": "Weapon",
+        "ImagePath": "./assets/cards/card-10-diamonds.png",
+        "Value": 10
+    },
+    
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-2-hearts.png",
+        "Value": 2
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-3-hearts.png",
+        "Value": 3
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-4-hearts.png",
+        "Value": 4
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-5-hearts.png",
+        "Value": 5
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-6-hearts.png",
+        "Value": 6
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-7-hearts.png",
+        "Value": 7
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-8-hearts.png",
+        "Value": 8
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-9-hearts.png",
+        "Value": 9
+    },
+    {
+        "CardType": "Potion",
+        "ImagePath": "./assets/cards/card-10-hearts.png",
+        "Value": 10
+    }
+]
