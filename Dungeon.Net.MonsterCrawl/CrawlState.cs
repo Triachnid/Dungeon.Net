@@ -43,7 +43,7 @@ public class CrawlState
 
     public CrawlState()
     {
-        var cards = JsonSerializer.Deserialize<Card[]>(File.ReadAllText("./cards.json"));
+        var cards = JsonSerializer.Deserialize<Card[]>(File.ReadAllText("./assets/monster_crawl_cards.json"));
         if(cards is null)
         {
             throw new InvalidDataException("Card data could not be loaded from json");
