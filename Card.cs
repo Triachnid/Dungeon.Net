@@ -20,7 +20,6 @@ public class Card
 {
     [JsonConverter(typeof(JsonStringEnumConverter))]
     public CardType CardType { get; init; }
-    public required string ImagePath { get; init; }
     public required int Value { get; init; }
 }
 

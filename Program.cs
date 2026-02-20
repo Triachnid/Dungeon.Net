@@ -1,1 +1,3 @@
-﻿await GameLauncher.RunGame();
+﻿using Dungeon.Net.MonsterCrawl;
+
+await MonsterCrawlLauncher.LaunchAsync();
